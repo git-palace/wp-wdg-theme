@@ -353,18 +353,3 @@ We encourage you to use the following plugins for development:
 We encourage you to use [WordPress CLI](http://wp-cli.org/) as much as possible in your workflow, it's an incredible tool which provides an enormous amount of power. Also look at all the [community packages](https://github.com/wp-cli/wp-cli/wiki/Community-Packages).
 
 ---
-
-## Contribution
-
-Although we are very opinionated, we are open to suggestions. Please send as a message to our email hello@wdgdc.com, through our [contact page](http://www.webdevelopmentgroup.com/contact/), send us a [GitHub issue](https://github.com/WDGDC/wordpress-theme/issues) or even better, a [pull request](https://github.com/WDGDC/wordpress-theme/pulls)!
-
-
-## Credits
-
-* _Brought to you by [The Web Development Group](http://www.webdevelopmentgroup.com/) team._
-[@dougaxe1](https://github.com/dougaxe1), [@kshaner](https://github.com/kshaner), [@MikeNGarrett](https://github.com/MikeNGarrett), [@neojp](https://github.com/neojp)
-* Original directory structure was inspired by [Bones](http://themble.com/bones/).
-* Grunt configuration originally inspired by [YeoPress](https://github.com/wesleytodd/YeoPress).
-* If we forgot someone, please send us a [pull request](https://github.com/WDGDC/wordpress-theme/pulls) or a message through the [issues](https://github.com/WDGDC/wordpress-theme/issues).
-
-[![](https://www.webdevelopmentgroup.com/wp-content/themes/wdg/assets/img/wdg-logo.png)](https://www.webdevelopmentgroup.com/)
